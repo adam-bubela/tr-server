@@ -1,0 +1,14 @@
+{
+  "name": "tr-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+},
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "express": "~4.14.1",
+    "lokijs": "^1.4.2"
+  }
+}
